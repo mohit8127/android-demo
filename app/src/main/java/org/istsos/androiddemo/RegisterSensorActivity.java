@@ -19,6 +19,7 @@ public class RegisterSensorActivity extends AppCompatActivity {
         }
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setTitle("istSOS");
         setSupportActionBar(toolbar);
 
 
