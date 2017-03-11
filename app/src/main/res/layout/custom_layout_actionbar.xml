@@ -22,7 +22,10 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textStyle="bold"
             android:padding="10dp"
+            android:paddingLeft="20dp"
             android:layout_alignParentTop="true"
+            android:id="@+id/about_tv"
+            android:textColor="#ffffff"
             />
     </TableRow>
 </TableLayout>
